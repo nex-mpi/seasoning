@@ -1,1 +1,3 @@
 # seasoning
+
+![](assets/preview.jpg)
